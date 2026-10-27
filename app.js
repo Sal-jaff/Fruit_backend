@@ -1,5 +1,5 @@
 const express = require('express');
-const cors = this.require('cors')
+const cors = require('cors')
 const app = express()
 const fruits = require('./routes/fruitsRoutes')
 
